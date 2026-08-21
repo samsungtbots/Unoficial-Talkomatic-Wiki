@@ -1,7 +1,2 @@
 [build]
-  publish = "Talkomatic Wiki/pages"
-
-[[redirects]]
-  from = "/"
-  to = "/index.html"
-  status = 200
+  publish = "Talkomatic Wiki"
