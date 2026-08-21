@@ -6,3 +6,9 @@
   to = "/pages/index.html"
   status = 200[build]
   publish = "Talkomatic Wiki"
+
+[[redirects]]
+  from = "/"
+  to = "/pages/index.html"
+  status = 200[build]
+  publish = "Talkomatic Wiki"
